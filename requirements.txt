@@ -9,3 +9,6 @@ seaborn
 joblib
 keras
 tensorflow==2.19.0
+av
+streamlit-webrtc
+imageio-ffmpeg
