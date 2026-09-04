@@ -3,7 +3,6 @@ pandas
 scikit-learn
 streamlit
 opencv-python-headless
-mediapipe
 matplotlib
 seaborn
 joblib
